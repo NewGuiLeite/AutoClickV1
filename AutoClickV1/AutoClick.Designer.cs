@@ -120,6 +120,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 15);
             this.label2.TabIndex = 5;
+            this.label2.Tag = "";
             this.label2.Text = "OneSys V. 1.0";
             // 
             // label3
